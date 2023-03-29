@@ -17,7 +17,7 @@ function Navigation() {
         <div className="flex justify-between h-22 text-black max-w-7xl w-full ml-10 mr-10">
           <div className="p-3 text-xl hover:text-[#333333] flex">
             <a href="/">
-            <Image src="/images/logo.png" width="65" height="65" className="shadow-md"/>
+            <Image src="/images/logo.png" width="65" height="65"/>
             </a>
           </div>
 
@@ -147,7 +147,7 @@ function Navigation() {
                 <a href="https://www.upwork.com/freelancers/~0156f06c2a59208aaa" class="nav">Upwork</a>
                 <a href="https://www.linkedin.com/in/desantisd15/"  class="nav">LinkedIn</a>
                 <a href="/bio" class="nav">Bio</a>
-                <a href="/contact" class="nav">Contact</a>
+                <a href= "mailto:desantisd15@gmail.com" class="nav">Contact</a>
                 
               </div>
               
